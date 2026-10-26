@@ -1,0 +1,2 @@
+/* Contact page refinements */
+.contact-methods{display:grid;gap:15px;margin-top:28px}.contact-method{display:flex;gap:14px;align-items:center}.contact-method .card-icon{margin:0;flex-shrink:0}.contact-method h3{font-size:15px;margin:0 0 3px}.contact-method p{font-size:13px;margin:0}

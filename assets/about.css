@@ -1,0 +1,3 @@
+/* About page refinements */
+.page-hero{background:linear-gradient(115deg,var(--surface-soft),var(--page))}
+.band .card-body{height:100%;background:var(--surface);border:1px solid var(--line);border-radius:20px}

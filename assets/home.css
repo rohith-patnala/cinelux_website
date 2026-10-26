@@ -1,0 +1,4 @@
+/* Home 1 page-specific styling */
+.hero{background:radial-gradient(ellipse at 80% 20%,rgba(212,175,55,.11),transparent 40%)}
+.hero h1{max-width:640px}
+@media(max-width:768px){.hero{padding-top:38px}}
